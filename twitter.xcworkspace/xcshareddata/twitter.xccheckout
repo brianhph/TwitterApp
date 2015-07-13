@@ -10,14 +10,14 @@
 	<string>twitter</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>95FFD3ABD4BB75539713F0441EAB3FDA9F13DE66</key>
+		<key>0DB3CC9C92C7BDC5752C11386F81750C79A9DCEA</key>
 		<string>https://github.com/brianhph/ios_twitter_v2.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>twitter.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>95FFD3ABD4BB75539713F0441EAB3FDA9F13DE66</key>
+		<key>0DB3CC9C92C7BDC5752C11386F81750C79A9DCEA</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>95FFD3ABD4BB75539713F0441EAB3FDA9F13DE66</string>
+	<string>0DB3CC9C92C7BDC5752C11386F81750C79A9DCEA</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>95FFD3ABD4BB75539713F0441EAB3FDA9F13DE66</string>
+			<string>0DB3CC9C92C7BDC5752C11386F81750C79A9DCEA</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TwitterApp</string>
 		</dict>
